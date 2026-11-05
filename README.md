@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello there! I'm Jace a CS undergrad at UW Seattle. I'm interested in Systems Programming and Game Development. I'm currently taking CSE 493L (Concurrency, Parallelism and Rust) as well as CSE 457 (Computer Graphics). 
 
 <!--
 **Jace-Dev27/Jace-Dev27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
